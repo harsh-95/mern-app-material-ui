@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/mern-app-material-ui/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mern-app-material-ui/static/js/main.b70a55c5.chunk.js",
-    "main.js.map": "/mern-app-material-ui/static/js/main.b70a55c5.chunk.js.map",
+    "main.js": "/mern-app-material-ui/static/js/main.b167b326.chunk.js",
+    "main.js.map": "/mern-app-material-ui/static/js/main.b167b326.chunk.js.map",
     "runtime-main.js": "/mern-app-material-ui/static/js/runtime-main.81b97c6a.js",
     "runtime-main.js.map": "/mern-app-material-ui/static/js/runtime-main.81b97c6a.js.map",
-    "static/js/2.d3f33056.chunk.js": "/mern-app-material-ui/static/js/2.d3f33056.chunk.js",
-    "static/js/2.d3f33056.chunk.js.map": "/mern-app-material-ui/static/js/2.d3f33056.chunk.js.map",
+    "static/js/2.a9e38b95.chunk.js": "/mern-app-material-ui/static/js/2.a9e38b95.chunk.js",
+    "static/js/2.a9e38b95.chunk.js.map": "/mern-app-material-ui/static/js/2.a9e38b95.chunk.js.map",
     "index.html": "/mern-app-material-ui/index.html",
-    "precache-manifest.5a600f2ce0971d2c636cb104e21fc652.js": "/mern-app-material-ui/precache-manifest.5a600f2ce0971d2c636cb104e21fc652.js",
+    "precache-manifest.5b4d861a218c144123c80c529b4cdd0c.js": "/mern-app-material-ui/precache-manifest.5b4d861a218c144123c80c529b4cdd0c.js",
     "service-worker.js": "/mern-app-material-ui/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/mern-app-material-ui/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d3f33056.chunk.js.LICENSE.txt": "/mern-app-material-ui/static/js/2.d3f33056.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mern-app-material-ui/static/media/logo.5d5d9eef.svg"
+    "static/js/2.a9e38b95.chunk.js.LICENSE.txt": "/mern-app-material-ui/static/js/2.a9e38b95.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.81b97c6a.js",
-    "static/js/2.d3f33056.chunk.js",
+    "static/js/2.a9e38b95.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b70a55c5.chunk.js"
+    "static/js/main.b167b326.chunk.js"
   ]
 }
