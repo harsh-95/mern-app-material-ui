@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mern-app-material-ui/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mern-app-material-ui/static/js/main.2b6afdaf.chunk.js",
-    "main.js.map": "/mern-app-material-ui/static/js/main.2b6afdaf.chunk.js.map",
+    "main.js": "/mern-app-material-ui/static/js/main.bb5208bf.chunk.js",
+    "main.js.map": "/mern-app-material-ui/static/js/main.bb5208bf.chunk.js.map",
     "runtime-main.js": "/mern-app-material-ui/static/js/runtime-main.81b97c6a.js",
     "runtime-main.js.map": "/mern-app-material-ui/static/js/runtime-main.81b97c6a.js.map",
     "static/js/2.a9e38b95.chunk.js": "/mern-app-material-ui/static/js/2.a9e38b95.chunk.js",
     "static/js/2.a9e38b95.chunk.js.map": "/mern-app-material-ui/static/js/2.a9e38b95.chunk.js.map",
     "index.html": "/mern-app-material-ui/index.html",
-    "precache-manifest.eff9873065fef9079fd61c094bab54a8.js": "/mern-app-material-ui/precache-manifest.eff9873065fef9079fd61c094bab54a8.js",
+    "precache-manifest.e06f7a5bca4741a0ed32679ff32a1c6f.js": "/mern-app-material-ui/precache-manifest.e06f7a5bca4741a0ed32679ff32a1c6f.js",
     "service-worker.js": "/mern-app-material-ui/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/mern-app-material-ui/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.a9e38b95.chunk.js.LICENSE.txt": "/mern-app-material-ui/static/js/2.a9e38b95.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.81b97c6a.js",
     "static/js/2.a9e38b95.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2b6afdaf.chunk.js"
+    "static/js/main.bb5208bf.chunk.js"
   ]
 }
