@@ -2,7 +2,7 @@
   "name": "mern-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://harsh-95.github.io/mern-app",
+  "homepage": "http://harsh-95.github.io/mern-app-material-ui",
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "@material-ui/icons": "^4.9.1",
@@ -12,6 +12,7 @@
     "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
